@@ -1,0 +1,10 @@
+C:\Users\Роман\Desktop\2 билет\3bilet\bin\Debug\3bilet.exe.config
+C:\Users\Роман\Desktop\2 билет\3bilet\bin\Debug\3bilet.exe
+C:\Users\Роман\Desktop\2 билет\3bilet\bin\Debug\3bilet.pdb
+C:\Users\Роман\Desktop\2 билет\3bilet\obj\Debug\3bilet.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\2 билет\3bilet\obj\Debug\_3bilet.Form1.resources
+C:\Users\Роман\Desktop\2 билет\3bilet\obj\Debug\_3bilet.Properties.Resources.resources
+C:\Users\Роман\Desktop\2 билет\3bilet\obj\Debug\3bilet.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\2 билет\3bilet\obj\Debug\3bilet.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\2 билет\3bilet\obj\Debug\3bilet.exe
+C:\Users\Роман\Desktop\2 билет\3bilet\obj\Debug\3bilet.pdb
